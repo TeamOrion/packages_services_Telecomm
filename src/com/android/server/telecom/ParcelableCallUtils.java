@@ -243,6 +243,7 @@ public class ParcelableCallUtils {
 
         Connection.CAPABILITY_CAN_PULL_CALL,
         android.telecom.Call.Details.CAPABILITY_CAN_PULL_CALL,
+
         Connection.CAPABILITY_VOICE_PRIVACY,
         android.telecom.Call.Details.CAPABILITY_VOICE_PRIVACY,
 
